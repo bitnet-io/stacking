@@ -1,0 +1,11 @@
+{
+  "version": "6.11.3",
+  "registry": "https://registry.npmjs.org/",
+  "publishConfig": {
+    "access": "public"
+  },
+  "changelogPreset": "conventionalcommits",
+  "packages": [
+    "packages/*"
+  ]
+}
